@@ -1,7 +1,7 @@
 # This fork
 
 - added a koreader icon that works well with the system icon pack. tested and works well on my touch hd 3.
-  koreader icon created by Qingping Hou (@houqp) and retrieved from [koreader-icons github repo](https://github.com/koreader/koreader-icons/blob/master/logo-2018-04/koreader.svg) and is licensed under [CC-BY 3.0](https://github.com/koreader/koreader-icons/blob/master/logo-2018-04/koreader.svg)
+  koreader icon created by Qingping Hou (@houqp) and retrieved from [koreader-icons github repo](https://github.com/koreader/koreader-icons/blob/master/logo-2018-04/koreader.svg) and is licensed under [CC BY 3.0](https://github.com/koreader/koreader-icons/blob/master/logo-2018-04/koreader.svg)
   my changes is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
 # About
